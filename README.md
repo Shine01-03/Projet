@@ -1,2 +1,2 @@
 # ma motification
-academique
+academ
